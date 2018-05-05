@@ -79,25 +79,25 @@ Algorithms like RMSprop, Adam etc help with this
 ---
 
 ## Deep learning CNNs & RNNs
-### 22. Why are convolutions so attractive for image processing tasks?
+#### 22. Why are convolutions so attractive for image processing tasks?
 
 
-### 23. What does it mean to say that a CNN has sparse connections?
+#### 23. What does it mean to say that a CNN has sparse connections?
 
 
-### 24. What does it mean to say that a CNN has shared weights?
+#### 24. What does it mean to say that a CNN has shared weights?
 
 
-### 25. People often say that a CNN is translation invariant. What does this mean?
+#### 25. People often say that a CNN is translation invariant. What does this mean?
 
 
-### 26. Compare the gradient descent with momentum, RMSprop, and Adam optimisation algorithms.
+#### 26. Compare the gradient descent with momentum, RMSprop, and Adam optimisation algorithms.
 
 
-### 27. What does it mean to unroll an RNN?
+#### 27. What does it mean to unroll an RNN?
 
 
-### 28. What is the differences between one-to-many, many-to-one, and many-to-many RNNs?
+#### 28. What is the differences between one-to-many, many-to-one, and many-to-many RNNs?
 
 
 ### 29. Describe an application suited to each of a one-to-many, many-to-one, and many-to-many RNN?
