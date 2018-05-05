@@ -44,14 +44,16 @@ Cost functions allow us to add in regularisation.
 
 
 #### 16. Describe the gradient descent algorithm.
-Choose random weights
-Until convergence
-    - Set all gradients to 0
-    - For each training instance
-    Calculate model output
-    Calculate loss
-    Update gradient sum for each weight and bias term
-        - Update weights and biases using weight update rule
+
+
+    Choose random weights
+    Until convergence
+        - Set all gradients to 0
+        - For each training instance
+        Calculate model output
+        Calculate loss
+        Update gradient sum for each weight and bias term
+            - Update weights and biases using weight update rule
 
 
 #### 17. Describe the back propagation of errors algorithm.
